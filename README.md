@@ -19,7 +19,8 @@ pip show ultralytics # 查看ultralytics 版本号
 
 **2、与v1相比更新内容：**
 
-- [ ] 
+- [x] 111111
+- [ ] 2222
 
 
 
